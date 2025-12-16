@@ -1,1 +1,1 @@
-My fake newa detection app
+My fake news detection app
